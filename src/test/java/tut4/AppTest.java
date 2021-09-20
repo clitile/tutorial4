@@ -18,6 +18,7 @@ public class AppTest
     {
         assertEquals(3, add(1, 2));
     }
+
     public void testApp2()
     {
         assertEquals(1, subtract(2, 1));
