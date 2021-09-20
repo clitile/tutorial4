@@ -20,6 +20,6 @@ public class AppTest
     }
     public void testApp2()
     {
-        assertEquals(3, substract(1, 2));
+        assertEquals(1, subtract(2, 1));
     }
 }
