@@ -4,7 +4,7 @@ import org.junit.jupiter.api.Test;
 import static org.junit.jupiter.api.Assertions.*;
 
 import static tut4.Calc.add;
-import static tut4.Calc.substract;
+import static tut4.Calc.subtract;
 
 /**
  * Unit test for simple App.
