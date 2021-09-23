@@ -15,8 +15,7 @@ public class AppTest
     /**
      * Rigourous Test :-)
      */
-    public void testApp()
-    {
+    public void testApp(){
         assertEquals(3, add(1, 2));
     }
 
